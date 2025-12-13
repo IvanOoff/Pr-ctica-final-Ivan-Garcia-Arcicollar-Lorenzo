@@ -1,4 +1,4 @@
-# Spotify Taste Mixer
+# Spotify Taste Mixer / SpotIvan
 
 Aplicación web que genera playlists personalizadas de Spotify basándose en las preferencias musicales del usuario.
 
